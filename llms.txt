@@ -1,0 +1,33 @@
+# ファクタリングパートナー
+
+> ファクタリング（売掛債権の買取による資金調達）と中小企業・個人事業主の資金繰りに関する日本語の情報サイトです。運営は株式会社MediaX。掲載各社の手数料は各社公式サイトで確認し、広告提携の有無は評価に影響しません。先払い買取・後払い現金化については、金融庁・消費者庁・警察庁の一次情報にもとづき注意喚起する立場で解説しています。
+
+## 編集方針
+- [情報の調査・検証ポリシー](https://hyogo-shihoushoshi.jp/verification-policy/): 情報の収集・確認・更新方法
+- [コンテンツポリシー](https://hyogo-shihoushoshi.jp/content-policy/): 編集基準と広告の開示
+- [運営者情報](https://hyogo-shihoushoshi.jp/about/)
+
+## 独自調査・データ
+- [ファクタリング手数料調査2026](https://hyogo-shihoushoshi.jp/articles/factoring-fee-survey-2026/): 各社公式サイトで確認した手数料の集計
+- [ファクタリング会社データベース](https://hyogo-shihoushoshi.jp/articles/company-directory/): 手数料・対応・オンライン完結で絞り込み
+- [ファクタリング市場動向](https://hyogo-shihoushoshi.jp/articles/market-trends/)
+
+## 基礎知識・リスク
+- [二重譲渡のリスクと対策](https://hyogo-shihoushoshi.jp/articles/double-assignment/)
+- [経営者保証なしの資金調達方法](https://hyogo-shihoushoshi.jp/articles/no-guarantee/)
+- [ファクタリング詐欺・悪質業者の手口](https://hyogo-shihoushoshi.jp/articles/fraud-patterns/)
+- [即日ファクタリングの条件](https://hyogo-shihoushoshi.jp/articles/instant-factoring/)
+
+## 先払い買取・現金化の注意喚起
+- [先払い買取とは（仕組みと法的リスク）](https://hyogo-shihoushoshi.jp/articles/sakibarai-kaitori/)
+- [先払い買取の代金を支払えないときの相談先](https://hyogo-shihoushoshi.jp/articles/sakibarai-kaitori-shiharaenai/)
+- [商品券の先払い買取](https://hyogo-shihoushoshi.jp/articles/shohinken-sakibarai/)
+- [「審査なし」の構造](https://hyogo-shihoushoshi.jp/articles/sakibarai-kaitori-shinsa-nashi/)
+
+## 比較・ツール
+- [ファクタリング会社ランキング](https://hyogo-shihoushoshi.jp/ranking/)
+- [手数料シミュレーター](https://hyogo-shihoushoshi.jp/simulator/)
+- [資金調達診断](https://hyogo-shihoushoshi.jp/diagnosis/)
+
+## サイトマップ
+- [sitemap.xml](https://hyogo-shihoushoshi.jp/sitemap.xml)
